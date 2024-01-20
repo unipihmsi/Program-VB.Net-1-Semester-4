@@ -1,0 +1,17 @@
+C:\Adam Kurniawan\Pembelian\Pembelian\bin\Debug\Pembelian.exe
+C:\Adam Kurniawan\Pembelian\Pembelian\bin\Debug\Pembelian.pdb
+C:\Adam Kurniawan\Pembelian\Pembelian\bin\Debug\Pembelian.xml
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\ResolveAssemblyReference.cache
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\Pembelian.Resources.resources
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\Pemrograman.vbproj.GenerateResource.Cache
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\Pembelian.exe
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\Pembelian.xml
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\Pembelian.pdb
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\Pembelian.Menu_Utama.resources
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\Pembelian.Form1.resources
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\Pembelian.FormLaporanBarang.resources
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\Pembelian.DataUser.resources
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\Pembelian.MenuLogin.resources
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\Pembelian.Supplier.resources
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\Pembelian.FormLaporanSupplier.resources
+C:\Adam Kurniawan\Pembelian\Pembelian\obj\Debug\Pembelian.Transaksi.resources
